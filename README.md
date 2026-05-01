@@ -1,6 +1,6 @@
 # Sistema Distribuído — Chat Cliente/Servidor
 ### EP-1 · Sistemas Distribuídos · UTFPR — Campus Ponta Grossa
-### Tecnologia em Análise e Desenvolvimento de Software
+### Tecnologia em Análise e Desenvolvimento de Sistemas
 
 ---
 
